@@ -98,7 +98,7 @@ for i in range(len(lista)):
 
 Os resultados experimentais são coerentes com as complexidades teóricas estudadas. O Bubble Sort possui complexidade média O(n²), enquanto o Quick Sort possui complexidade média O(n log n).
 
-Os tstes mostram exatamente esse comportamento: quando o número de elementos aumenta, o Bubble Sort cresce muito mais rapidamente que o Quick Sort.
+Os testes mostram exatamente esse comportamento: quando o número de elementos aumenta, o Bubble Sort cresce muito mais rapidamente que o Quick Sort.
 
 ```python
 # Loop de automação dos testes para os diferentes tamanhos
