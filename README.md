@@ -2,7 +2,7 @@
 
 ## 👥 Participantes
 
-* **Pedro Henrique** — Ciência da Computação
+* **Pedro Henrique Farias da Silva** — Ciência da Computação
 * **Eliezer Câmara Silva Filho** — Engenharia de Software
 * **Welinton Junior** — Ciência da Computação
 
