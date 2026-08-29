@@ -1,6 +1,5 @@
 import random
 
-
 # BUBBLE SORT
 # Recebe uma lista e ordena comparando elementos vizinhos.
 # Também conta quantas comparações e trocas foram realizadas.
@@ -25,13 +24,11 @@ def bubble_sort(lista):
 
     # Retorna a quantidade de operações realizadas
     return comparacoes, trocas
-
-
+    
 # QUICK SORT
 # Contadores das operações realizadas pelo Quick Sort
 comparacoes_quick = 0
 movimentacoes_quick = 0
-
 
 # Ordena a lista utilizando um pivô para separar
 # os elementos menores e maiores
@@ -66,7 +63,6 @@ def quicksort(lista):
 
     # Ordena novamente as partes menores e maiores
     return quicksort(menores) + [pivo] + quicksort(maiores)
-
 
 # TESTES COM 10, 20 E 1000 ELEMENTOS
 for tamanho in [10, 20, 1000]:
