@@ -153,6 +153,7 @@ lista_ordenada = quicksort(lista_grande)
 print("Quantidade de comparações para lista grande no Quick Sort:", comparacoes_quick)
 
 ```
+### Tabela Comparativa de Desempenho e Complexidade
 
 | Métria / Cenário | Bubble Sort | Quick Sort |
 | :--- | :--- | :--- |
