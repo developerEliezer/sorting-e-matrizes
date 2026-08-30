@@ -24,21 +24,12 @@ Com esse experimento foi possível observar como o aumento da quantidade de elem
 
 ## 🌡️ Parte 5 — Monitoramento de Sensores
 
-A **Parte 5 foi desenvolvida completamente por mim**, incluindo o código e a explicação do funcionamento da solução.
-
+Fiquei responsável pelo desenvolvimento completo da Parte 5, incluindo a implementação do código e a explicação do funcionamento da solução.
 Nesta etapa foi utilizada uma matriz com **5 sensores e 24 medições para cada sensor**, representando as temperaturas registradas durante as 24 horas do dia. No total, a matriz possui **120 medições**.
 
 O programa calcula a média das temperaturas de cada sensor, identifica a maior temperatura registrada, informa qual sensor foi responsável por essa medição e o horário em que ela ocorreu. Também é calculada a média geral das 120 medições e a quantidade de temperaturas que ficaram acima de um limite determinado.
 
 Nesta parte também foram analisados os **loops aninhados**, os índices `[i][j]`, a quantidade de posições percorridas na matriz e a relação entre o número de linhas, colunas e operações realizadas.
-
----
-
-## 🧠 Conceitos trabalhados
-
-Durante o desenvolvimento das Partes 2 e 5 foram trabalhados conceitos importantes da disciplina, como **Bubble Sort, Quick Sort, arrays, matrizes, loops aninhados, índices, comparação de operações e complexidade de algoritmos**.
-
-Essas atividades permitiram observar na prática como diferentes formas de organizar e processar os dados podem influenciar a quantidade de operações realizadas por um programa.
 
 ---
 
